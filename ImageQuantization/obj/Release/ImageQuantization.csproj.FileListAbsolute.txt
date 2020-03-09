@@ -1,0 +1,18 @@
+D:\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csprojAssemblyReference.cache
+D:\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+D:\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+D:\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.cache
+D:\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.CoreCompileInputs.cache
+D:\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.exe
+D:\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.pdb
+D:\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.exe
+D:\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.pdb
+D:\Year 3\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.exe
+D:\Year 3\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.pdb
+D:\Year 3\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csprojAssemblyReference.cache
+D:\Year 3\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+D:\Year 3\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+D:\Year 3\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.cache
+D:\Year 3\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.CoreCompileInputs.cache
+D:\Year 3\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.exe
+D:\Year 3\Year 3 Semester One\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.pdb
